@@ -138,7 +138,7 @@ int main()
 
     while (1) {
 
-        printf(">> Enter the main string : \n");
+        printf(">> Enter the main string : \n>> ");
         string_scan(str);
 
         printf(">> find : ");
